@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frm_Mascara", "Frm_Mascara\Frm_Mascara.csproj", "{EB6E9A1A-A2B4-43A9-9C67-6241BF95F312}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frm_ValidaCPF", "Frm_ValidaCPF\Frm_ValidaCPF.csproj", "{ECA60763-B925-48A5-A75E-A2204678BEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6E9A1A-A2B4-43A9-9C67-6241BF95F312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6E9A1A-A2B4-43A9-9C67-6241BF95F312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6E9A1A-A2B4-43A9-9C67-6241BF95F312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6E9A1A-A2B4-43A9-9C67-6241BF95F312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA60763-B925-48A5-A75E-A2204678BEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA60763-B925-48A5-A75E-A2204678BEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA60763-B925-48A5-A75E-A2204678BEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA60763-B925-48A5-A75E-A2204678BEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3718564-6988-4D34-9C04-28FF57D4E11A}
+	EndGlobalSection
+EndGlobal
